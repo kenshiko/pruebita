@@ -1,0 +1,10 @@
+section{
+    background-color: blueviolet;
+    height: 200px;
+    display: flex;
+    gap: 10px;
+}
+
+div{
+    background-color: aqua;
+}
